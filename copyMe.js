@@ -1,7 +1,7 @@
 const today = new Date();
 const yyyy = today.getFullYear();
-let url1 = "https://mytimetable.swan.ac.uk/timetables?view=week&date="
-let url2 = "&timetableTypeSelected=241e4d36-93f2-4938-9e15-d4536fe3b2eb&searchText=computer%20science&selections=241e4d36-93f2-4938-9e15-d4536fe3b2eb__fa824663-edaa-c7d8-c779-dd76b096df4f"
+let url1 = "full URL before the date here"
+let url2 = "full URL after the date here"
 let mm = today.getMonth() + 1; // Months start at 0
 let dd = today.getDate();
 
